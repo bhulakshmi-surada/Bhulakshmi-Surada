@@ -1,12 +1,8 @@
 
-<h1 align="center">
-  Hi 👋, I'm Bhulakshmi Surada
-</h1>
+<h1 align="center">Hi 👋, I'm Bhulakshmi Surada</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bhulakshmi+Surada;B.Tech+CSE+(Data+Science)+Student;Full+Stack+Developer;Java+Programmer;Backend+Development+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Passionate+Software+Developer;B.Tech+CSE+(Data+Science)+Student;Building+Full-Stack+Web+Applications;Exploring+Backend+Technologies;Solving+DSA+Problems;Always+Learning+New+Technologies" />
 </p>
 
 🎓 B.Tech Computer Science (Data Science) student passionate about **Software Development** and **Problem Solving**.
