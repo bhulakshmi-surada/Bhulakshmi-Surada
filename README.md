@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I'm Bhulakshmi Surada, a B.Tech Computer Science (Data Science) student passionate about software development and problem-solving. I enjoy building full-stack web applications, exploring backend technologies, and solving DSA problems. I'm always eager to learn new technologies and build projects that create real-world impact.
+## Hi there! 👋 I'm Bhulakshmi Surada
+
+🎓 B.Tech Computer Science (Data Science) student passionate about **Software Development** and **Problem Solving**.
+
+💻 I enjoy building **Full-Stack Web Applications**, exploring **Backend Technologies**, and solving **DSA** problems.
+
+🌱 I'm always eager to learn new technologies, improve my skills, and build projects that create real-world impact.
+
+🚀 Always learning • Always building • Always growing
 
 
 # 💻 Tech Stack:
