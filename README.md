@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Bhulakshmi Surada</h1>
 
 <h3 align="center">
-Software Developer • Java Developer • Full Stack Enthusiast
+Software Developer • Java Programmer • Full Stack Enthusiast
 </h3>
 
 <p align="center">
@@ -40,9 +40,8 @@ Software Developer • Java Developer • Full Stack Enthusiast
 Name          : Bhulakshmi Surada
 Education     : B.Tech CSE (Data Science)
 Location      : India 🇮🇳
-Role          : Software Developer
-Favorite Lang : Java ☕
-Interest       : Backend Development
+Focus        : Full Stack Development & Problem Solving
+Currently    : Building Projects & Improving DSA
 ```
 
 💡 I enjoy building software that solves real-world problems.
@@ -63,7 +62,7 @@ Interest       : Backend Development
 - 🧩 Data Structures & Algorithms
 - ⚙ Backend Development
 - 🌐 REST APIs
-- 📚 System Design Fundamentals
+
 
 ---
 
@@ -155,13 +154,11 @@ Interactive Power BI dashboard for healthcare fraud analysis.
 # 🌱 Currently Learning
 
 ```text
-☕ Advanced Java
+☕ Java
 
 🧩 DSA
 
 ⚙ Backend Development
-
-🏗 System Design
 
 🌐 React
 ```
@@ -218,6 +215,6 @@ Interactive Power BI dashboard for healthcare fraud analysis.
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Learning one concept, solving one problem, and building one project at a time."*
+*"Always learning, always building, always growing."*
 
 </p>
