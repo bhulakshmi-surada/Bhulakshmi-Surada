@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Bhulakshmi Surada</h1>
 
-<h3 align="center">
-Software Developer • Java Programmer • Full Stack Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+(Data+Science)+Student;Building+Practical+Applications;Java+Developer;Full+Stack+Development;Problem+Solver;Continuous+Learner+🚀" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+%7C+Full+Stack+Developer;Backend+Development+Enthusiast;Problem+Solver;Always+Learning+Something+New+🚀"/>
