@@ -44,87 +44,38 @@ Focus        : Full Stack Development & Problem Solving
 Currently    : Building Projects & Improving DSA
 ```
 
-💡 I enjoy building software that solves real-world problems.
-
-🧩 Passionate about Data Structures & Algorithms.
-
-💻 Love developing Full Stack applications.
-
-🧠 Strong analytical thinking with continuous learning.
-
-🚀 Goal: Become a Software Engineer building scalable products.
-
----
-
-# 🚀 Current Focus
-
-- ☕ Advanced Java
-- 🧩 Data Structures & Algorithms
-- ⚙ Backend Development
-- 🌐 REST APIs
 
 
----
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Programming
-```text
-☕ Java                █████████░
-🐍 Python              ██████░░░░
-💛 JavaScript          ███████░░░
-💾 SQL                 ████████░░
-```
+### 💻 Languages
 
-### 🌐 Web Development
-```text
-HTML                   ████████░░
-CSS                    ████████░░
-React.js               ██████░░░░
-Node.js                ██████░░░░
-Express.js             ██████░░░░
-```
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql"/>
+</p>
 
-### 🗄 Database & Tools
-```text
-MySQL                  ████████░░
-Git & GitHub           ████████░░
-Postman                ███████░░░
-```
+### 🌐 Frontend
 
-### 📊 Data & Analytics
-```text
-Power BI               ████████░░
-Pandas                 ██████░░░░
-NumPy                  ██████░░░░
-```
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
 
-# 📌 Featured Projects
+### ⚙ Backend
 
-### 🎓 Learn Together
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-📚 Collaborative Learning Platform built with **React, Node.js, Express.js & MySQL**
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+Power BI • Pandas • NumPy
 
 ---
-
-### 📒 Contact Management System
-
-REST API based CRUD application with MySQL integration.
-
----
-
-### 🤖 OMNIX
-
-AI-powered Multimedia & Learning Companion.
-
----
-
-### 📊 Fraud Detection Dashboard
-
-Interactive Power BI dashboard for healthcare fraud analysis.
-
----
-
 # 📈 GitHub Analytics
 
 <p align="center">
@@ -168,11 +119,6 @@ Interactive Power BI dashboard for healthcare fraud analysis.
 
 ---
 
-# 💡 Developer Philosophy
-
-> "I enjoy writing code that is clean, efficient, and meaningful. Every project is an opportunity to learn, improve, and build something impactful."
-
----
 
 # 🌟 Fun Facts
 
