@@ -66,35 +66,38 @@ Currently    : Building Projects & Improving DSA
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming
+```text
+☕ Java                █████████░
+🐍 Python              ██████░░░░
+💛 JavaScript          ███████░░░
+💾 SQL                 ████████░░
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql"/>
-</p>
+### 🌐 Web Development
+```text
+HTML                   ████████░░
+CSS                    ████████░░
+React.js               ██████░░░░
+Node.js                ██████░░░░
+Express.js             ██████░░░░
+```
 
-### 🌐 Frontend
+### 🗄 Database & Tools
+```text
+MySQL                  ████████░░
+Git & GitHub           ████████░░
+Postman                ███████░░░
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
-Power BI • Pandas • NumPy
-
----
+### 📊 Data & Analytics
+```text
+Power BI               ████████░░
+Pandas                 ██████░░░░
+NumPy                  ██████░░░░
+```
 
 # 📌 Featured Projects
 
